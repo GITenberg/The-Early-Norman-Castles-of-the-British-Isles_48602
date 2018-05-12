@@ -1,15 +1,21 @@
 _repo: The-Early-Norman-Castles-of-the-British-Isles_48602
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Montgomerie, D. H.
     gutenberg_agent_id: '44879'
     url: http://www.gutenberg.org/2009/agents/44879
+covers:
+- cover_type: archival
+  image_path: 48602-h/images/cover.jpg
 creator:
   author:
     agent_name: Armitage, Ella S.
     gutenberg_agent_id: '44878'
     url: http://www.gutenberg.org/2009/agents/44878
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48602#The-Early-Norman-Castles-of-the-British-Isles
 gutenberg_issued: '2015-03-29'
 gutenberg_type: Text
 identifiers:
